@@ -14,9 +14,8 @@ import javax.persistence.*;
 @NamedQuery(name = "User.findAll", query = "SELECT u FROM User u")
 })
 public class User implements Serializable {
-    
     @Id
-    @Basic
+    @Basic(optional = false)
     @Column
     private String email;
     
