@@ -1,7 +1,7 @@
-package ca.sait.lab6.services;
+package ca.sait.lab7.services;
 
-import ca.sait.lab6.dataaccess.RoleDB;
-import ca.sait.lab6.models.Role;
+import ca.sait.lab7.dataaccess.RoleDB;
+import ca.sait.lab7.models.Role;
 import java.util.List;
 
 

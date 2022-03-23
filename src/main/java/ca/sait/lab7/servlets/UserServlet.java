@@ -1,9 +1,9 @@
-package ca.sait.lab6.servlets;
+package ca.sait.lab7.servlets;
 
-import ca.sait.lab6.models.Role;
-import ca.sait.lab6.models.User;
-import ca.sait.lab6.services.RoleService;
-import ca.sait.lab6.services.UserService;
+import ca.sait.lab7.models.Role;
+import ca.sait.lab7.models.User;
+import ca.sait.lab7.services.RoleService;
+import ca.sait.lab7.services.UserService;
 import java.io.IOException;
 import java.util.List;
 import java.util.logging.Level;
